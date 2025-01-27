@@ -11,6 +11,13 @@ How Does It Work?
 Core Components
 ---------------
 
+Fetch.ai's ecosystem revolves around four key principles:
+
+- **Build**: Create intelligent, task-specific agents using the uAgents Framework or other tools.
+- **Connect**: Deploy and register agents on Agentverse to discover and collaborate with other agents.
+- **Communicate**: Enable agents to exchange secure messages and share data seamlessly.
+- **Transact**: Perform decentralized transactions using blockchain to ensure trust, transparency, and accountability.
+
 Below are the core components of the Fetch.ai ecosystem:
 
 - **Agents**: Autonomous/AI Agent programs that make decisions, solve problems, and perform tasks independently.
@@ -27,10 +34,35 @@ Development Tools
 How the System Operates
 ========================
 
-- **Agent Deployment**: Agents are designed using the uAgents Framework or SDK and deployed locally or on Agentverse.
-- **Registration**: Agents are registered in the Almanac through Agentverse for discoverability and task collaboration.
-- **Communication**: Agents interact via secure messaging and blockchain-based transactions.
-- **Task Execution**: Agents collaboratively solve real-world problems in decentralized ecosystems.
+.. image:: _static/build_connect_diagram.png
+   :alt: Build, Connect, Communicate, Transact Diagram
+   :align: center
+   :width: 600px
+
+Fetch.ai operates based on four core activities: Build, Connect, Communicate, and Transact.
+
+- **Build**: 
+  - Design autonomous agents using the uAgents Framework or SDK.
+  - Define task-specific logic and workflows for agents.
+  - Example: Build a supply chain agent that monitors shipments in real-time.
+
+- **Connect**:
+  - Deploy agents on Agentverse and register them in the Almanac for discoverability.
+  - Allow agents to interact with other agents to achieve collaborative goals.
+  - Example: Connect an agent with weather forecasting agents to optimize logistics.
+
+- **Communicate**:
+  - Exchange secure, blockchain-powered messages between agents.
+  - Use Fetch.ai's unified messaging system and protocols to simplify communication.
+  - Example: Share stock price updates or IoT data securely.
+
+- **Transact**:
+  - Perform blockchain-backed transactions directly between agents through wallets.
+  - Ensure secure and trustless execution of smart contracts.
+  - Example: Enable a payment agent to execute financial transactions for services rendered.
+
+This structured approach ensures agents remain efficient, scalable, and interoperable across domains.
+
 
 Use Cases
 ---------
@@ -58,3 +90,7 @@ Conclusion
 
 Fetch.ai is not just a framework for building AI agents—it’s an ecosystem that combines the power of AI, blockchain, and decentralization to create autonomous, intelligent, and collaborative solutions.
 
+.. image:: _static/product_overview.png.png
+   :alt: Product Overview
+   :align: center
+   :width: 600px
