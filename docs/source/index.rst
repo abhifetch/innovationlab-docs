@@ -1,17 +1,17 @@
-Welcome to Lumache's documentation!
+Welcome to Fetch.ai's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Fetch.ai** provides an whole ecosystem to develop and deploy AI Agents.
+Fetch.ai Provides tools to Build, Connect, Communicate and make transactions between AI Agents.
+It provides you a lightweight python package to uAgents to build AI agents, Agentverse marketplace to host and look around for different AI agents.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+Check out the :doc:`uagents` section for further information, including on uAgents package.
+how to :ref:`_install_uagents` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. 
 
 Contents
 --------
