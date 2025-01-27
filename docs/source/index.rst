@@ -90,7 +90,7 @@ Conclusion
 
 Fetch.ai is not just a framework for building AI agents—it’s an ecosystem that combines the power of AI, blockchain, and decentralization to create autonomous, intelligent, and collaborative solutions.
 
-.. image:: _static/product_overview.png.png
+.. image:: _static/product_overview.png
    :alt: Product Overview
    :align: center
    :width: 600px
